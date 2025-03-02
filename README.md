@@ -1,2 +1,3 @@
 # DOMnotes
-JavaScript Notes
+JavaScript Notes:
+Open DOMnotes.md to view :)
